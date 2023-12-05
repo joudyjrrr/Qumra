@@ -1,5 +1,5 @@
 import './WhoQumra.css'
-import img from '../../imges/Screenshot_2023-08-18_at_16-19-44_قُمرة_الإمارة_التسويقية___qomrah.alemara____Instagram_photos_and_videos-removebg-preview.png'
+import img from '../../imges/q.png'
 
 const WhoQumra = ()=>{
     return(

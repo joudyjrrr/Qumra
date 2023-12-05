@@ -1,11 +1,11 @@
 import './Services.css'
-import sev1 from '../../imges/Screenshot 2023-08-17 at 15-50-34 قُمرة الإمارة التسويقية on Instagram نهتم بتقديم خدمة كتابة خطط المحتوى لان المحتوى السليم هو اساس نجاح اي مشروع🔝👌[...]-PhotoRo(2).png'
+import sev1 from '../../imges/1.png'
 import sev2 from '../../imges/ss.png'
 import sev3 from '../../imges/ؤ-removebg-preview.png'
-import sev4 from '../../imges/Screenshot 2023-08-17 at 15-19-53 قُمرة الإمارة التسويقية on Instagram نهتم بتقديم خدمة كتابة خطط المحتوى لان المحتوى السليم هو اساس نجاح اي مشروع🔝👌[...]-PhotoRo(1).png'
-import sev5 from '../../imges/Screenshot 2023-08-17 at 15-26-18 قُمرة الإمارة التسويقية on Instagram نهتم بتقديم خدمة كتابة خطط المحتوى لان المحتوى السليم هو اساس نجاح اي مشروع🔝👌[...]-PhotoRo(2).png'
-import sev6 from '../../imges/Screenshot 2023-08-12 at 15-47-56 قُمرة الإمارة التسويقية (@qomrah.alemara) • Instagram photos and videos-PhotoRoom.png-PhotoRoom(1).png'
-import sev7 from '../../imges/Screenshot 2023-08-17 at 17-05-30 قُمرة الإمارة التسويقية (@qomrah.alemara) • Instagram photos and videos-PhotoRoom.png-PhotoRoom(1).png'
+import sev4 from '../../imges/2.png'
+import sev5 from '../../imges/3.png'
+import sev6 from '../../imges/4.png'
+import sev7 from '../../imges/5.png'
 const Services = ()=>{
 
     return(
